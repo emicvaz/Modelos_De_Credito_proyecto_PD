@@ -2,7 +2,7 @@
 
 A lo largo de esta materia quisimos como simular cómo los bancos calculan la pérdida esperada. La formula general es 
 
-![$PE = PE * LGG * EAD $](https://render.githubusercontent.com/render/math?math=%24PE%20%3D%20PE%20*%20LGG%20*%20EAD%20%24) 
+![$PE = PE * LGD * EAD $](https://render.githubusercontent.com/render/math?math=%24PE%20%3D%20PE%20*%20LGG%20*%20EAD%20%24) 
 
 En el curso sólo nos alcanzó a ver un modelo para el PD. Que es el que enseñaré a continuación
 
