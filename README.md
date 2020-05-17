@@ -1,4 +1,4 @@
-#Proyecto de modelos de crédito para calcular el PD
+##Proyecto de modelos de crédito para calcular el PD
 
 A lo largo de esta materia quisimos como simular cómo los bancos calculan la pérdida esperada. La formula general es 
 $$ PE = PD x LGD x EAD   $$
